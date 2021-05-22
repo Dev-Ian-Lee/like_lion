@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T11:49:20.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.272 Whale/2.9.117.22 Safari/537.36" version="14.7.0" etag="b3JD2BN7-PydKNfRL8RV" type="github"><diagram id="Bjf0ob3gU07bOU9di6PK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-22T12:58:13.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.272 Whale/2.9.117.22 Safari/537.36" etag="CxSTi40zmhrk6homjxsN" version="14.7.0" type="github">
+  <diagram id="Bjf0ob3gU07bOU9di6PK" name="Page-1">
+    <mxGraphModel dx="892" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg7MCCN4i4Q3bC-63fip-1" target="Cg7MCCN4i4Q3bC-63fip-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg7MCCN4i4Q3bC-63fip-1" target="Cg7MCCN4i4Q3bC-63fip-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cg7MCCN4i4Q3bC-63fip-1" target="Cg7MCCN4i4Q3bC-63fip-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-1" value="메인 페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-2" value="카탈로그&amp;nbsp;페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-3" value="로그인&amp;nbsp;페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="200" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cg7MCCN4i4Q3bC-63fip-6" value="회원가입&amp;nbsp;페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
